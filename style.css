@@ -1,4 +1,4 @@
-/* body{
+body{
     margin: 0;
     padding: 0;
     background: #0f0f0f;
@@ -60,7 +60,7 @@ img:hover{
 .facebook-icon:hover{
     transform: scale(1.15);
     box-shadow: 0 0 25px #1877f2;
-} */
+}
 
 
 
